@@ -1,0 +1,10 @@
+{
+  "name": "fixture",
+  "styles": [
+    "index.css",
+    "index.scss",
+    "index.sass",
+    "index.styl",
+    "index.foo"
+  ]
+}
